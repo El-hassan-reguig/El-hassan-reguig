@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning java 
 - 📫 How to reach me reguigh45@gmail.com
 - ⚡ Fun fact: speak gently with gpt cause someday we will get rushed
+- this is my second github 
 
 <!---
 El-hassan-reguig/El-hassan-reguig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
